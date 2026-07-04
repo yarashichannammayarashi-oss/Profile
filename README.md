@@ -46,17 +46,14 @@
 ### Bank Account Management System
 - Java console application for account creation, deposit, withdrawal, and balance checking.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+### TaskMan-Buddy
+- Add Task, Delete Task and Complete the Task.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_ID
-- Email: your-email@example.com
+- GitHub: https://github.com/yarashichannammayarashi-oss
+- LinkedIn: https://www.linkedin.com/in/channamma-yarashi
+- Email: yarashichannammayarashi@gamil.com
 
 ---
 ⭐ Thanks for visiting my profile!
